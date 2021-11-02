@@ -107,6 +107,8 @@ def main():
         Pattern = data1
     else:
         print("두 길이가 같은 경우")
+        TEXT = data1
+        Pattern = data2
 
     print("TEXT: ", TEXT)
     print("Pattern: ",Pattern)
